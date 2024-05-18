@@ -81,8 +81,12 @@
 
     .header-section .header-img, .skills-section .skills-img{
         width: 90%;
-        
+    }
 
+    .portfolio-section .card {
+        width: 350px; 
+        height: 200px;
+        margin-right: 22px;
     }
 
     .portfolio-section .card .card-img-top{
